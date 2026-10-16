@@ -80,3 +80,7 @@ Single-user local deployment. No public hosting, multi-user login, inbox integra
 The optional historical `setup_local_ai.py` utility and npm package install browser Qwen assets. The delivered UI uses OmniRoute because longer browser generation was unreliable on this laptop. Those downloads are not required for normal operation. Windows security protections remain enabled.
 
 MIT licensed. Third-party services and optional model assets retain their own licenses and terms.
+
+## Contributing
+
+Use the bug/feature issue templates and reviewed pull requests. Follow [CONTRIBUTING.md](CONTRIBUTING.md), the [code of conduct](CODE_OF_CONDUCT.md) and [security reporting](SECURITY.md). Keep prospect records, private configuration and provider keys out of public issues and patches.
