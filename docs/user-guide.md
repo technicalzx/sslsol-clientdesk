@@ -70,7 +70,7 @@ If AI fails, check the existing OmniRoute dashboard at http://127.0.0.1:20128 an
 
 For rejected pages, inspect the reason. Robots restrictions, JavaScript-only sites, access challenges, DNS failures and timeouts are expected. Review an official public page manually and save authorized notes. Do not bypass access controls for research.
 
-Source and sanitized documentation are public at https://github.com/AbiHurairah-OpenSource/sslsol-clientdesk. Local keys, prospect records, logs, transcript evidence and model downloads are excluded. AI requests share selected context with the upstream provider: local storage does not mean local-only AI computation.
+Source and sanitized documentation are public at https://github.com/technicalzx/sslsol-clientdesk. Local keys, prospect records, logs, transcript evidence and model downloads are excluded. AI requests share selected context with the upstream provider: local storage does not mean local-only AI computation.
 
 ## Suggested first week
 

@@ -66,7 +66,7 @@ A historical browser Qwen utility remains optional source material. Tiny inferen
 
 ## Deployment and maintenance
 
-The laptop uses a headless Python launcher and desktop shortcut. Public source: https://github.com/AbiHurairah-OpenSource/sslsol-clientdesk. CI checks workflow tests, Python compilation and JavaScript syntax. Test backup recovery on a copy, monitor gateway quota, refresh old source evidence and keep queries focused. Broader hosting would require authentication, TLS, access controls and a separate operational design.
+The laptop uses a headless Python launcher and desktop shortcut. Public source: https://github.com/technicalzx/sslsol-clientdesk. CI checks workflow tests, Python compilation and JavaScript syntax. Test backup recovery on a copy, monitor gateway quota, refresh old source evidence and keep queries focused. Broader hosting would require authentication, TLS, access controls and a separate operational design.
 
 ## Primary references
 

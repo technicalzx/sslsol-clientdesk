@@ -21,7 +21,7 @@ Inspired by the [Clair interview](https://www.youtube.com/watch?v=v0eruAaxqaQ): 
 Requires Python 3.11+ and an existing [OmniRoute](https://github.com/diegosouzapw/OmniRoute) instance for AI. Core features use the Python standard library.
 
 ```powershell
-git clone https://github.com/AbiHurairah-OpenSource/sslsol-clientdesk.git
+git clone https://github.com/technicalzx/sslsol-clientdesk.git
 cd sslsol-clientdesk
 python scripts/configure_omniroute.py --from-existing
 python launch.py
